@@ -1,4 +1,11 @@
+## React Search App
+This is a simple app that searches data from the [Unsplash API](https://unsplash.com/documentation) as it fetches images & displays them on the screen. Really simple app I used to learn som basics to React.
+
+## How to Install
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+You can Easily install this app with:
+### `npm install`
 
 ## Available Scripts
 
